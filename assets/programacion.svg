@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Concurso de programacion</title>
+<desc id="desc">Ilustracion de concurso de programacion con laptop, codigo y trofeo.</desc>
+<rect width="1200" height="700" fill="#111111"/>
+<rect x="0" y="0" width="1200" height="120" fill="#dc3545" opacity="0.95"/>
+<text x="60" y="80" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8f9fa">CONCURSO DE PROGRAMACION</text>
+<rect x="120" y="170" rx="26" ry="26" width="650" height="380" fill="#1f1f1f" stroke="#dc3545" stroke-width="8"/>
+<rect x="155" y="205" rx="16" ry="16" width="580" height="250" fill="#000000" stroke="#6c757d" stroke-width="3"/>
+<text x="195" y="285" font-size="52" font-family="Courier New, monospace" font-weight="700" fill="#ffc107">&lt;/&gt;</text>
+<text x="195" y="350" font-size="40" font-family="Courier New, monospace" fill="#f8f9fa">while (equipo &lt; ganador) {</text>
+<text x="225" y="405" font-size="38" font-family="Courier New, monospace" fill="#20c997">resolverProblema();</text>
+<text x="195" y="455" font-size="40" font-family="Courier New, monospace" fill="#f8f9fa">}</text>
+<rect x="300" y="560" width="300" height="20" rx="10" fill="#6c757d"/>
+<polygon points="845,205 910,205 930,300 825,300" fill="#ffc107"/>
+<rect x="857" y="300" width="40" height="95" fill="#adb5bd"/>
+<rect x="810" y="395" width="135" height="26" rx="10" fill="#6c757d"/>
+<circle cx="1000" cy="230" r="55" fill="#212529" stroke="#dc3545" stroke-width="8"/>
+<text x="964" y="248" font-size="56" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8f9fa">#</text>
+<circle cx="1020" cy="470" r="86" fill="#212529" stroke="#ffc107" stroke-width="8"/>
+<text x="968" y="490" font-size="68" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8f9fa">1</text>
+<text x="855" y="570" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f8f9fa">ALGORITMO · LOGICA · CODIGO</text>
+</svg>
